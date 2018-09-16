@@ -1,0 +1,16 @@
+Petunjuk :
+1. import database terlebih dahulu.
+	database ada di folder "database", dengan nama file "bakeryyuan.sql"
+2. lalu pada URL ketikan "localhost/tokoroti"
+3. untuk login.
+	Username : adminbakery
+	Password : yuan123
+
+
+Tambahan :
+	Aplikasi ini berfungsi untuk kasir penjualan produk roti.
+	dimana menu :
+	a. Halaman utama : untuk melihat hasil penjualan hari ini dan bulan ini. dan juga cetak laporan penjualan harian.
+	b. data master : untuk menambahkan dan mengubah data master.
+	c. kasir : untuk menjual produk.
+	d. keluar : untuk keluar dari akun. 

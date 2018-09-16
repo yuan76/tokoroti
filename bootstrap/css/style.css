@@ -1,0 +1,18 @@
+aside.main-sidebar{
+  height: 100%;
+  position: fixed;
+}
+header.main-header{
+  width: 100%;
+  position: fixed;
+}
+.pull-left img{
+	height: 30px !important;
+	width: 45px !important;
+}
+#page-wrapper{
+	margin-top: 50px !important;
+}
+.content-wrapper{
+	height: 100% !important;
+}
